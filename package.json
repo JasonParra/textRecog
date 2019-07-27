@@ -1,0 +1,15 @@
+{
+  "name": "text-recog",
+  "version": "1.0.0",
+  "description": "text recognition using nodejs and tesseract",
+  "main": "server.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "author": "Jason Parra",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "tesseract.js": "^1.0.19"
+  }
+}
